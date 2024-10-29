@@ -24,7 +24,7 @@ Welcome to the **Guessing Game**! 🎉 This is a fun and exciting game where you
 
 ## 📸 Demo
 
-![Demo of Hand Gesture Detection](OIP.jpeg)  
+![Demo of Hand Gesture Detection](Screenshot 2024-10-29 183057.png)  
 *Watch how the system detects number in real-time!*
 
 ## 📥 Installation
